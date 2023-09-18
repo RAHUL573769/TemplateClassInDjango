@@ -1,1 +1,1 @@
-# TemplateClassInDjango
+# TemplateClassInDjango.
